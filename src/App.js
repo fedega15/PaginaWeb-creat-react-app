@@ -154,9 +154,8 @@ function App() {
 
             <svg className="icon"
               xmlns="http://www.w3.org/2000/svg"
-              width="130"
-              height="130"
-              fill="currentColor"
+              width="80"
+              height="80"
               class="bi bi-cart4"
               viewBox="0 0 16 16"
             >
@@ -169,9 +168,8 @@ function App() {
           <div className="container1">
             <svg className="icon"
               xmlns="http://www.w3.org/2000/svg"
-              width="130"
-              height="130"
-              fill="currentColor"
+              width="80"
+              height="80"
               class="bi bi-calendar-date"
               viewBox="0 0 16 16"
             >
@@ -186,9 +184,8 @@ function App() {
           <div className="container1">
             <svg className="icon"
               xmlns="http://www.w3.org/2000/svg"
-              width="130"
-              height="130"
-              fill="currentColor"
+              width="80"
+              height="80"
               class="bi bi-shop"
               viewBox="0 0 16 16"
               
